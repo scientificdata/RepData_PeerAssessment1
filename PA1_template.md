@@ -87,7 +87,7 @@ max(fiveMinutesSteps[,2])
 ```
 ## [1] 206.2
 ```
-* Conclusion: Interval  contains the maximum number of steps on average of .
+* Conclusion: Interval 104 contains the maximum number of steps on average of 206.2.
 
 <h2>Imputing missing values</h2>
 * Calculate the number of missing values
